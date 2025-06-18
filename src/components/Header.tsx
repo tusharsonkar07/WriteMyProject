@@ -54,7 +54,7 @@ const Header: React.FC = () => {
                 Join Us as Writer
               </a>
               <a 
-                href="https://forms.gle/onbee9qcnPPDYNFL7" 
+                href="https://forms.gle/pR68wz2WtGxhxWZD9" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="btn btn-secondary text-xs md:text-sm px-3 py-2 md:px-6 md:py-3"
