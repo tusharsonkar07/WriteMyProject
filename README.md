@@ -1,3 +1,3 @@
 # WriteMyProject
 
-Landing page project by Deepshikha Dhawan.
+Landing page project by Tushar Sonkar.
